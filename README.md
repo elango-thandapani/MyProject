@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethandapani
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning learing python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
